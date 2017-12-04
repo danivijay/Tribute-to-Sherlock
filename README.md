@@ -6,3 +6,4 @@ A single page website. Contents sourced from Wikipedia. Created as part of freeC
 
 ## Link
 Codepen : https://codepen.io/danimvijay/pen/NwGJZo
+Preview : https://danivijay.github.io/Tribute-to-Sherlock/
